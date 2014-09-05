@@ -11,5 +11,10 @@ p {
 }
 
 a {
+  color:#FFF;
   text-decoration:none;
+}
+
+a:hover {
+  text-decoration:underline;
 }
